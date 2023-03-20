@@ -25,7 +25,7 @@
 Go to the project directory
 
 ```bash
-  cd one-stop-solution-main/src/one-stop-solution
+  cd one-stop-solution-main/src/one_stop_solution
 ```
 
 > Get assigned yourself the issue you want to contribute.<br>
