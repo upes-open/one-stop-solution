@@ -1,6 +1,15 @@
 # One Stop Solution
 
 ## About the Project
+An app that serves as a one-stop-shop for all
+the nearby restaurants,
+pharmacies,hostels, pg’s and doctors
+near our college campus can be a great way
+to help students find and access the services
+they need. The app can provide details such
+as menus, phone numbers, directions, and
+other relevant information for each
+establishment. 
 
 ## Tech Stack
 - [ ] Flutter
