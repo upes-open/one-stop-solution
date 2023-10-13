@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'splash.dart';
+import 'package:flutter_application_1/splashScreen.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -8,10 +9,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: new ThemeData(
-        fontFamily: 'Work Sans'
-      ),
-      home: Second_screen (),
+      theme: new ThemeData(fontFamily: 'Work Sans'),
+      home: Splash_screen(),
     );
   }
 }
